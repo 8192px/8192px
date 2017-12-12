@@ -1,7 +1,7 @@
 {
-  "name": "8196px",
+  "name": "8192px",
   "version": "0.0.0",
-  "description": "",
+  "description": "A collaborative pixel art experiment http://8192px.co",
   "main": "server.js",
   "dependencies": {
     "mime": "^1.3.4",
